@@ -98,6 +98,12 @@ const adhwapw = {
   
   ![Snake animation](https://github.com/Adhwapw/Adhwapw/blob/output/github-contribution-grid-snake.svg)
   
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Adhwapw/Adhwapw/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Adhwapw/Adhwapw/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/Adhwapw/Adhwapw/blob/output/github-contribution-grid-snake.svg">
+  </picture>
+  
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -128,6 +134,22 @@ const adhwapw = {
 - ☁️ Cloud architecture and microservices
 - 🤖 AI/ML integration in web applications
 - 📱 Mobile development with React Native
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📈 Activity & Contributions
+
+<div align="center">
+
+### 🏃‍♂️ Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+### 🎮 Coding Activity
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -179,10 +201,24 @@ const adhwapw = {
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Adhwapw&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+### 🎯 Weekly Development Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer"/>
 
+### 💭 Random Programming Wisdom
+> *"The best way to get a project done faster is to start sooner."* - Jim Highsmith
+
 **✨ "Code is like humor. When you have to explain it, it's bad." - Cory House ✨**
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adhwapw&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Adhwapw?label=Followers&style=social" alt="GitHub Badge">
+</p>
+
+**⭐ From [Adhwapw](https://github.com/Adhwapw) with ❤️**
 
 </div>
