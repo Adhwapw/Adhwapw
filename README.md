@@ -8,36 +8,9 @@
   
 </div>
 
-## 🚀 About Me
+## 🚀 Haii
 
-<img align="right" alt="Developer working" width="450" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
-
-```typescript
-const adhwapw = {
-    pronouns: "He" | "Him",
-    code: ["TypeScript", "JavaScript", "Python", "Java", "C++"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vue", "Angular"],
-            css: ["Sass", "Tailwind", "Bootstrap"],
-            uiLibraries: ["Material UI", "Ant Design", "Chakra UI"]
-        },
-        backEnd: {
-            js: ["Node", "Express", "Fastify"],
-            python: ["Django", "Flask", "FastAPI"],
-            databases: ["MongoDB", "PostgreSQL", "MySQL"]
-        },
-        mobile: ["React Native", "Flutter"],
-        devOps: ["Docker", "Kubernetes", "AWS", "GitHub Actions"],
-        tools: ["Git", "Docker", "Webpack", "Vite", "VS Code"]
-    },
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2VvY2doa3o2ZnV4dzRrZjBucmExcjJ0M3gxeWVzcXZnc3B2czZnOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/njXQQxl2MXuZ7RNtX7/giphy.gif)">
 
 ## 🛠️ Tech Stack
 
