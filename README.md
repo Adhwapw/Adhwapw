@@ -106,6 +106,7 @@
 
 ### 🏃‍♂️ Recent Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/Adhwapw/Adhwapw/pull/1) in [Adhwapw/Adhwapw](https://github.com/Adhwapw/Adhwapw)
 <!--END_SECTION:activity-->
 
 ### 🎮 Coding Activity
