@@ -10,7 +10,7 @@
 
 ## 🚀 Haii
 
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2VvY2doa3o2ZnV4dzRrZjBucmExcjJ0M3gxeWVzcXZnc3B2czZnOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/njXQQxl2MXuZ7RNtX7/giphy.gif">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Nmo2Ym50M3VrYnFybWg2dDZ1Zzd1bXJwNHBqcG4wNnF4bWJlZ3RzYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jP4EOgsnCjUMFekDLA/giphy.gif">
 
 ## 🛠️ Tech Stack
 
